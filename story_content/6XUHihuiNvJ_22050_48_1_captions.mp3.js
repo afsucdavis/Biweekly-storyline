@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.31.19951.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.317%0D%0ALunch%20out%20is%20the%20start%20time%20of%20a%20lunch%20break.%20Leave%20it%20blank%20if%20you%20didn\u0027t%20take%20a%20lunch%20break.%20%0D%0A%0D%0A"}')
