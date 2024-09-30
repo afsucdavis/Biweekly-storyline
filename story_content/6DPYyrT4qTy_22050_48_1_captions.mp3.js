@@ -1,1 +1,0 @@
-window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.31.19951.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:05.016%0D%0AAfter%20you%20login%20to%20your%20TRS%20application,%20and%20selected%20Employee%20from%20the%20initial%20screen,%20%0D%0A%0D%0A"}')
